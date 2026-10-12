@@ -16,6 +16,6 @@ Talyvor gives AI agents their own wallets, cards and payments. The owner sets th
 
 ### Talyvor elsewhere
 
-[talyvor.com](https://talyvor.com) · [LinkedIn](https://www.linkedin.com/company/talyvor) · [Instagram](https://www.instagram.com/talyvor.ai) · [Facebook](https://www.facebook.com/talyvorai) · [nicolai@talyvor.com](mailto:nicolai@talyvor.com)
+[talyvor.com](https://talyvor.com) · [LinkedIn](https://www.linkedin.com/company/talyvor) · [Instagram](https://www.instagram.com/talyvor) · [Facebook](https://www.facebook.com/talyvorai) · [nicolai@talyvor.com](mailto:nicolai@talyvor.com)
 
 Talyvor is not a bank; accounts and cards come through licensed partners, and we are in talks with them now. Talyvor Ltd is registered in England and Wales, company number 17299143.
