@@ -8,11 +8,11 @@ Talyvor gives AI agents their own wallets, cards and payments. The owner sets th
 
 | Repository | What it does |
 | --- | --- |
-| [talyvor-lens](https://github.com/gaboracnicolai/talyvor-lens) | The gateway that checks each agent's wallet rules before a model or payment call goes out |
-| [talyvor-suite](https://github.com/gaboracnicolai/talyvor-suite) | The Talyvor app: the wallet console, Chat, the Marketplace, Track and Docs |
-| [talyvor-code](https://github.com/gaboracnicolai/talyvor-code) | An AI coding agent that runs on its own Talyvor wallet |
-| [talyvor-track](https://github.com/gaboracnicolai/talyvor-track) | An issue tracker that shows what AI work costs per issue |
-| [talyvor-docs](https://github.com/gaboracnicolai/talyvor-docs) | A knowledge base that shows what each page costs to implement |
+| [talyvor-lens](https://github.com/talyvor/talyvor-lens) | The gateway that checks each agent's wallet rules before a model or payment call goes out |
+| [talyvor-suite](https://github.com/talyvor/talyvor-suite) | The Talyvor app: the wallet console, Chat, the Marketplace, Track and Docs |
+| [talyvor-code](https://github.com/talyvor/talyvor-code) | An AI coding agent that runs on its own Talyvor wallet |
+| [talyvor-track](https://github.com/talyvor/talyvor-track) | An issue tracker that shows what AI work costs per issue |
+| [talyvor-docs](https://github.com/talyvor/talyvor-docs) | A knowledge base that shows what each page costs to implement |
 
 ### Talyvor elsewhere
 
